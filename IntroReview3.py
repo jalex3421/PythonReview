@@ -1,6 +1,6 @@
 '''
-    Autor: Alejandro Meza
-    Fecha: 01-06-2020
+    Author: Alejandro Meza
+    Date: 01-06-2020
     Little introduction of Python part 3
 '''
 
